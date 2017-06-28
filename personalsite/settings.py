@@ -28,7 +28,7 @@ SECRET_KEY = env('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.rodomar.mx']
+ALLOWED_HOSTS = ['.rodomar.mx', '104.254.244.190']
 
 
 # Application definition
