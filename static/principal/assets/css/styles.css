@@ -294,6 +294,10 @@ iframe {
 .projects .item .title a:hover {
   color: #5f6b77;
 }
+.projects .item .title .year {
+  color: #999;
+  font-weight: normal;
+}
 /* Work Section */
 .experience .item {
   margin-bottom: 30px;
